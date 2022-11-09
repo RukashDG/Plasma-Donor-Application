@@ -3,13 +3,12 @@
 
  ![image](https://github.com/RukashDG/Plasma-Donor-Application/blob/main/plasma_donor_img.jpg)
  
-
- # Plasma Donor Eligibility Criteria
- ![image](https://s3.ap-south-1.amazonaws.com/healthinsurances3.com/prod/imagegallery/plasma-donor.jpg)
-
  # Project Description
 During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low. Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand. In regard to the problem faced, an application is to be built which would take the donor details, store them and inform them upon a request.
 
+ # Plasma Donor Eligibility Criteria
+ ![image](https://s3.ap-south-1.amazonaws.com/healthinsurances3.com/prod/imagegallery/plasma-donor.jpg)
+ 
 # Software Required
  - Python
  - Flask
